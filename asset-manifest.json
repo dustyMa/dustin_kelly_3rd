@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dustin_kelly_3rd/static/css/main.21bb8302.css",
-    "main.js": "/dustin_kelly_3rd/static/js/main.f0445e82.js",
-    "static/media/IMG_5824.jpg": "/dustin_kelly_3rd/static/media/IMG_5824.530f21bf3516450fc662.jpg",
-    "static/media/IMG_8296.jpg": "/dustin_kelly_3rd/static/media/IMG_8296.9ac5a810f46ea36efb47.jpg",
-    "static/media/IMG_4737.jpg": "/dustin_kelly_3rd/static/media/IMG_4737.404f16f63fa54fd7c2ca.jpg",
-    "static/media/IMG_4034.jpg": "/dustin_kelly_3rd/static/media/IMG_4034.e90711dd1b9c4b60c7e5.jpg",
-    "static/media/IMG_8708.jpg": "/dustin_kelly_3rd/static/media/IMG_8708.5c123f477853df5ce195.jpg",
-    "static/media/IMG_4868.jpg": "/dustin_kelly_3rd/static/media/IMG_4868.e0d38a9f5b5f73127281.jpg",
-    "static/media/duckChar.png": "/dustin_kelly_3rd/static/media/duckChar.3f2f2739788ac5e69a40.png",
-    "static/media/Green.png": "/dustin_kelly_3rd/static/media/Green.750cd7bb12488fe36e25.png",
-    "static/media/koupen.png": "/dustin_kelly_3rd/static/media/koupen.feaed34d2c87a390f4ff.png",
-    "index.html": "/dustin_kelly_3rd/index.html",
-    "main.21bb8302.css.map": "/dustin_kelly_3rd/static/css/main.21bb8302.css.map",
-    "main.f0445e82.js.map": "/dustin_kelly_3rd/static/js/main.f0445e82.js.map"
+    "main.css": "/static/css/main.e3fe3d8d.css",
+    "main.js": "/static/js/main.253c1bcb.js",
+    "static/media/IMG_5824.jpg": "/static/media/IMG_5824.530f21bf3516450fc662.jpg",
+    "static/media/IMG_8296.jpg": "/static/media/IMG_8296.9ac5a810f46ea36efb47.jpg",
+    "static/media/IMG_4737.jpg": "/static/media/IMG_4737.404f16f63fa54fd7c2ca.jpg",
+    "static/media/IMG_4034.jpg": "/static/media/IMG_4034.e90711dd1b9c4b60c7e5.jpg",
+    "static/media/IMG_8708.jpg": "/static/media/IMG_8708.5c123f477853df5ce195.jpg",
+    "static/media/IMG_4868.jpg": "/static/media/IMG_4868.e0d38a9f5b5f73127281.jpg",
+    "static/media/duckChar.png": "/static/media/duckChar.3f2f2739788ac5e69a40.png",
+    "static/media/Green.png": "/static/media/Green.750cd7bb12488fe36e25.png",
+    "static/media/koupen.png": "/static/media/koupen.feaed34d2c87a390f4ff.png",
+    "index.html": "/index.html",
+    "main.e3fe3d8d.css.map": "/static/css/main.e3fe3d8d.css.map",
+    "main.253c1bcb.js.map": "/static/js/main.253c1bcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.21bb8302.css",
-    "static/js/main.f0445e82.js"
+    "static/css/main.e3fe3d8d.css",
+    "static/js/main.253c1bcb.js"
   ]
 }
