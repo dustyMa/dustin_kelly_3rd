@@ -40,7 +40,7 @@ function Letter() {
   return (
     <div className={`letter-page ${animate ? 'animate-bg' : ''}`}>
       <div className="letter-content">
-        <h2 >Happy 3 year Anniverary!
+        <h2 >Happy 3 year Anniversary!
         </h2>
         <p>Hey Kelly,</p>
         <br></br>
